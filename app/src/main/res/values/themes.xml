@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Weather" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+<!--        &lt;!&ndash;window占满全屏&ndash;&gt;-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+<!--        &lt;!&ndash;window设置背景&ndash;&gt;-->
+<!--        <item name="android:windowBackground">@color/black</item>-->
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:navigationBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <style name="Theme.Weather" parent="Base.Theme.Weather" />
+</resources>

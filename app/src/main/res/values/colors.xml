@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_2">#662B2B2B</color>
+    <color name="toast_background">#81FFFFFF</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_2">#B3FFFFFF</color>
+    <color name="yellow">#F4874D</color>
+    <color name="hui">#E0F8FF</color>
+    <color name="red">#CBFAC7BA</color>
+</resources>
